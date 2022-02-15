@@ -1,0 +1,1 @@
+This is a Rock Paper Scissors javascript program for the Odin Project that is played through the console.
